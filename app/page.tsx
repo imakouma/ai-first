@@ -111,7 +111,7 @@ export default function Calculator() {
       setCurrentExpression('');
     }
   };
-
+//check comment
   const clearHistory = () => {
     setHistory([]);
   };
